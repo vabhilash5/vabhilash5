@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @vabhilash5
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning data science and machine learning course at scaler academy
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+-    Graduated from NIT Warangal
+- 📫 you can reach me at vemulaabhilash5@gmail.com
 
 <!---
 vabhilash5/vabhilash5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
