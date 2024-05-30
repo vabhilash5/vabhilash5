@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @vabhilash5
+- 👋 Hi, I’m Abhilash.
 - 👀 I’m interested in LLM's, Gen AI, Computer Vision.
 - 💻 Working as Data Scientist at GlobalData Research Center.
-- 📖 Graduated from NIT Warangal
+- 📖 Graduated from NIT Warangal.
 - 📫 you can reach me at vemulaabhilash5@gmail.com
 
 
