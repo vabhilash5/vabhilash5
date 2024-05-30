@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vabhilash5
-- 👀 I’m interested in machine learning
-- 🌱 I’m currently learning data science and machine learning course at scaler academy
--    Graduated from NIT Warangal
+- 👀 I’m interested in LLM's, Gen AI, Computer Vision.
+- 💻 Working as Data Scientist at GlobalData Research Center.
+- 📖 Graduated from NIT Warangal
 - 📫 you can reach me at vemulaabhilash5@gmail.com
 
 
